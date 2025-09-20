@@ -9,13 +9,21 @@ source .venv/bin/activate
 * Dentro do ambiente virtual, os principais comandos são:
 
 python3 torre/torre.py importar-dados
+
 python3 torre/torre.py listar --por=prioridade
+
 python3 torre/torre.py listar --por=voo
+
 python3 torre/torre.py enfileirar decolagem --voo ALT123
+
 python3 torre/torre.py enfileirar pouso --voo ALT901
+
 python3 torre/torre.py autorizar decolagem --pista 10/28
+
 python3 torre/torre.py autorizar pouso --pista 01/19
+
 python3 torre/torre.py status
+
 python3 torre/torre.py relatorio
 
 
