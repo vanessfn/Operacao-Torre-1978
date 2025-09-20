@@ -1,0 +1,9 @@
+Relatorio de Operação - 2025-09-19T11:55:42.595255
+Autorizadas: 2
+Negadas: 2
+
+Motivos mais comuns (top 10):
+  Licença do piloto vencida: 2
+
+Observações:
+  - Média de espera não calculada (dados insuficientes). Implementar registro de timestamps por voo para medir.

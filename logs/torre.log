@@ -1,0 +1,16 @@
+2025-09-19 10:36:04 ERROR: Arquivos ausentes: /home/vanessfn/aero70/dados/planos_voo.csv, /home/vanessfn/aero70/dados/pistas.txt, /home/vanessfn/aero70/dados/frota.csv, /home/vanessfn/aero70/dados/pilotos.csv, /home/vanessfn/aero70/dados/metar.txt, /home/vanessfn/aero70/dados/notam.txt
+2025-09-19 11:26:26 INFO: importar-dados: importação concluída, filas inicializadas (vazias).
+2025-09-19 11:38:47 INFO: listar --por=prioridade: exibidos 2 voos.
+2025-09-19 11:39:17 INFO: listar --por=prioridade: exibidos 2 voos.
+2025-09-19 11:41:04 WARNING: Enfileirar ALT123 negado: Licença do piloto vencida
+2025-09-19 11:42:12 WARNING: Enfileirar ALT901 negado: Licença do piloto vencida
+2025-09-19 11:42:51 INFO: Fila de decolagem vazia.
+2025-09-19 11:43:32 INFO: Fila de pouso vazia.
+2025-09-19 11:51:40 INFO: importar-dados: importação concluída, filas inicializadas (vazias).
+2025-09-19 11:51:50 INFO: listar --por=prioridade: exibidos 2 voos.
+2025-09-19 11:52:52 INFO: enfileirar decolagem ALT123: OK (pilot P001).
+2025-09-19 11:53:06 INFO: enfileirar pouso ALT901: OK (pilot P002).
+2025-09-19 11:53:18 INFO: AUTORIZADO DECOLAGEM voo=ALT123 pista=10/28 motivo=OK
+2025-09-19 11:53:58 INFO: AUTORIZADO POUSO voo=ALT901 pista=01/19 motivo=OK
+2025-09-19 11:55:23 INFO: status exibido.
+2025-09-19 11:55:42 INFO: relatorio gerado: /home/vanessfn/aero70/relatorios/operacao_20250919.txt
