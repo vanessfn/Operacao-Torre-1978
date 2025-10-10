@@ -1,1 +1,0 @@
-# Operacao-Torre-1978
